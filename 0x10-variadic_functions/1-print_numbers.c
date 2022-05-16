@@ -4,10 +4,10 @@
 #include <stdio.h>
 
 /**
- *  * print_numbers - prints all numbers with a separator
- *   * @separator: separe numbers
- *    * @n: int, number of undefined arguments
- *     */
+ * print_numbers - prints all numbers with a separator
+ * @separator: separe numbers
+ * @n: int, number of undefined arguments
+ */
 
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
