@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m "More linked Lists"
-get push
+git push
